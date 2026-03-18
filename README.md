@@ -1,3 +1,1 @@
-## Hi there 👋
-
-![Stats](./profile/stats.svg)
+![Aldi's GitHub Stats](https://github-readme-stats-git-master-aldi-ms-projects.vercel.app/api?username=aldi-ms&theme=github_dark&show_icons=true&number_format=long)

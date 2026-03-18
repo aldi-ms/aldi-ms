@@ -1,1 +1,2 @@
-![Aldi's GitHub Stats](https://github-readme-stats-git-master-aldi-ms-projects.vercel.app/api?username=aldi-ms&theme=github_dark&show_icons=true&number_format=long)
+![Aldi's GitHub Stats](https://github-readme-stats-omega-wheat-99.vercel.app/api?username=aldi-ms&theme=github_dark&show_icons=true&number_format=long)
+![Top Langs](https://github-readme-stats-omega-wheat-99.vercel.app/api/top-langs/?username=aldi-ms&theme=github_dark&layout=compact)
